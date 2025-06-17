@@ -1,4 +1,8 @@
 # addition using user input
 
-a = input("First name : ")
-b = input("Last name : ")
+a = input("First no. : ")
+b = input("Second no. : ")
+
+res = int(a) + float(b)
+
+print(res)
